@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">TryCamel</string>
+
+    <string-array name="locale_name">
+        <item name="locale_us">United States</item>
+        <item name="locale_australia">Australia</item>
+        <item name="locale_canada">Canada</item>
+        <item name="locale_china">China</item>
+        <item name="locale_france">France</item>
+        <item name="locale_germany">Germany</item>
+        <item name="locale_italy">Italy</item>
+        <item name="locale_japan">Japan</item>
+        <item name="locale_spain">Spain</item>
+        <item name="locale_united_kingdom">United Kingdom</item>
+    </string-array>
+
+    <string-array name="locale_url">
+        <item name="url_us">https://camelcamelcamel.com/search?q=%1$s</item>
+        <item name="url_au">https://au.camelcamelcamel.com/search?q=%1$s</item>
+        <item name="url_ca">https://ca.camelcamelcamel.com/search?q=%1$s</item>
+        <item name="url_cn">https://cn.camelcamelcamel.com/search?q=%1$s</item>
+        <item name="url_fr">https://fr.camelcamelcamel.com/search?q=%1$s</item>
+        <item name="url_de">https://de.camelcamelcamel.com/search?q=%1$s</item>
+        <item name="url_it">https://it.camelcamelcamel.com/search?q=%1$s</item>
+        <item name="url_jp">https://jp.camelcamelcamel.com/search?q=%1$s</item>
+        <item name="url_es">https://es.camelcamelcamel.com/search?q=%1$s</item>
+        <item name="url_uk">https://uk.camelcamelcamel.com/search?q=%1$s</item>
+    </string-array>
+
+    <string name="parse_error">Unable to send to CamelCamelCamel</string>
+    <string name="locale">Locale</string>
+    <string name="next">Next</string>
+    <string name="done">Done</string>
+
+    <string name="tutorial_intro">Use TryCamel to see the price history of items on Amazon.</string>
+    <string name="tutorial_intro_subtitle"></string>
+
+    <string name="tutorial_intro_2">Step 1: Shop as you normally do with the Amazon app or a web browser.</string>
+    <string name="tutorial_intro_subtitle_2"></string>
+
+    <string name="tutorial_share_instruction">Step 2: On any product, locate the share button.</string>
+    <string name="tutorial_share_instruction_subtitle">Here\'s what it looks like if you are using the Amazon app.</string>
+
+    <string name="tutorial_screen_share_browser">If you are using a web browser, you\'ll need to find the share button in the browser itself.</string>
+    <string name="tutorial_screen_share_browser_subtitle">Usually, it\'s in the menu with the 3 dots in the top right of the screen.</string>
+
+    <string name="tutorial_screen_share_fake">Beware of this share button. Do not use it. </string>
+    <string name="tutorial_screen_share_fake_subtitle">It shares within the Amazon website rather than to the Android system.</string>
+
+    <string name="tutorial_screen_4">Step 3: Use the correct share button and share with TryCamel</string>
+    <string name="tutorial_screen_subtitle_4"></string>
+
+    <string name="tutorial_screen_5">Step 4: That\'s it. \nTry it now with this link: http://a.co/4ps1EIe</string>
+    <string name="tutorial_screen_subtitle_5"></string>
+
+    <string name="chose_amazon_store">Chose Amazon Store</string>
+</resources>
