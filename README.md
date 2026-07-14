@@ -1,4 +1,7 @@
 # TryCamel
+
+[![CI](https://github.com/edwardmlyte/TryCamel/actions/workflows/ci.yml/badge.svg)](https://github.com/edwardmlyte/TryCamel/actions/workflows/ci.yml)
+
 Share an Amazon url to CamelCamelCamel
 
 ![logo](https://raw.githubusercontent.com/cstew/TryCamel/master/art/feature_graphic.png)
