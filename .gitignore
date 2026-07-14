@@ -26,5 +26,8 @@ proguard/
 # Log Files
 *.log
 
+# IDE
+.idea/
+
 # Planning docs (local only)
 PLAN.md
