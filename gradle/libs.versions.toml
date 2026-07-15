@@ -6,7 +6,7 @@ kotlin = "2.2.20"
 # are held at their latest AGP-8-compatible releases. Bump together with AGP 9.
 coreKtx = "1.16.0"
 appcompat = "1.7.1"
-material = "1.13.0"
+material = "1.14.0"
 constraintlayout = "2.2.1"
 viewpager2 = "1.1.0"
 junit = "4.13.2"
